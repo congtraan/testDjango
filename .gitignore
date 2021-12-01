@@ -11,7 +11,7 @@ media
 btre/settings.py
 *.py[cod]
 *$py.class
-
+/media
 # C extensions
 *.so
 
@@ -34,6 +34,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+/static
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
